@@ -1,0 +1,13 @@
+lesson: springboot
+
+server:
+  port: 9999
+
+user:
+  name: qrc
+  age: 23
+  tel: 18296531713
+  likes:
+    - java
+    - hjx
+    - guitar
